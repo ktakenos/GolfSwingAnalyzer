@@ -1,6 +1,9 @@
 # GolfSwingAnalyzer
 For Golf Swing Analysis using 3D plotting of body joints converted from privately recorded videos
 
+Demonstration of this code
+https://youtu.be/QRXIYl-tVjI
+
 This code runs an Qt application, where you can analyze your gold swing in terms of your skeleton motion in 3D coordinates.
 In order to determine your joint coordinates, you need two videos recorded to your swing of your interest. You can synchronize the two videos in this application so they don't have to be started at the same time.
 The two cameras are idealy 90 degrees apart with respect to your body. You will need to tell the application that the target direction in the two video frames. In author's case, one camera is just in front of him facing. It is 360 degree camera, Gopro max. The other camera is behind the ball on the target line.
